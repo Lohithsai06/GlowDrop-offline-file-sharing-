@@ -110,5 +110,5 @@ Built with 💖 by [lohith sai G]
 Have feedback or ideas?
 Open an issue or submit a pull request — all contributions welcome!
 
-<p align="center"> ⭐ If you like it, don’t forget to star this repo! ⭐ </p> <p align="center"> <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="120" /> </p> ```
+⭐ If you like it, don’t forget to star this repo! ⭐ 
 
