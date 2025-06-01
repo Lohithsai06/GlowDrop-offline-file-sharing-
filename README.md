@@ -21,11 +21,9 @@
 ### 📸 UI Sneak Peek
 
 > Elegant neon UI with glowing progress bar ✨
+![Screenshot (313)](https://github.com/user-attachments/assets/6b42b50e-fdfe-4f83-bf18-a97b00ad1145)
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/12bb9cc3-9567-4a3d-a2cf-346bc582420b)
-" width="600" alt="GlowDrop UI Preview" />
-</p>
+![Screenshot (314)](https://github.com/user-attachments/assets/adfa8a14-155c-437b-96c4-3b847bfda65d)
 
 
 ---
